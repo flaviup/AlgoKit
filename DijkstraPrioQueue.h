@@ -1,0 +1,5 @@
+
+#ifndef __DIJKSTRAPRIOQUEUE_H__
+#define __DIJKSTRAPRIOQUEUE_H__
+
+#endif // __DIJKSTRAPRIOQUEUE_H__
